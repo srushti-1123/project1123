@@ -1,0 +1,19 @@
+.header-basic {
+  background: #0e1628;
+  color: white;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-basic nav a {
+  margin-left: 80px;
+  text-decoration: none;
+  color: #ccc;
+}
+
+.header-basic nav a:hover {
+  color: #1e90ff;
+  text-shadow: 0 0 5px #1e90ff, 0 0 10px #1e90ff;
+}
